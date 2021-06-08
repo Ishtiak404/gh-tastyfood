@@ -1,0 +1,20 @@
+div.items{
+    border: 2px solid rgb(226, 121, 34);
+    width: 317px;
+    height: 170px;
+    background-color: wheat;
+    margin: 10px;
+    border-radius: 3px;
+    float: left;
+}
+div.items h3{
+    text-align: center;
+    font-weight:bold;
+    color: white;
+    border: red;
+    background-color: rgb(22, 7, 230);
+}
+div.items p{
+    text-align: justify;
+    padding: 10px 15px;
+}
